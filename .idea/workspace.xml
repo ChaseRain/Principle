@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/archived/archived/Archived.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/archived/archived/Docker部署Confluence.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/archived/archived/Docsify搭建GitHub.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/database/mysql/Mysql.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/life/mysql/Mysql.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/database/mysql/Mysql日常.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/life/mysql/Mysql日常.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/database/redis/Redis.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/database/redis/Redis日常.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/java/thread/thread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/java/thread/thread日常清单.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/operating-system/mac/Mac.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/operating-system/mac/Mac源码安装vim.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/operating-system/mac/Mac环境变量.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/docker/Docker.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/docker/Docker速查清单.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/git/Git.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/git/Git指引手册.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/git/Git日常使用清单.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/other/Other.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/other/Other工具清单.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/vim/VIM速查清单.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tools/vim/Vim.md" beforeDir="false" />
-    </list>
+    <list default="true" id="f948efbf-4ce6-4042-959f-509e9580e8f8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,19 +45,19 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/docs/tools" />
-      <recent name="$PROJECT_DIR$/docs/java/thread" />
-      <recent name="$PROJECT_DIR$/docs/java" />
-      <recent name="$PROJECT_DIR$/docs/database" />
-      <recent name="$PROJECT_DIR$/docs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/life" />
       <recent name="$PROJECT_DIR$/docs/archived/archived" />
       <recent name="$PROJECT_DIR$/docs/tools/vim" />
       <recent name="$PROJECT_DIR$/docs/tools/git" />
       <recent name="$PROJECT_DIR$/docs/operating-system/Mac" />
-      <recent name="$PROJECT_DIR$/docs/Archived" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/work" />
+      <recent name="$PROJECT_DIR$/docs/tools" />
+      <recent name="$PROJECT_DIR$/docs/java/thread" />
+      <recent name="$PROJECT_DIR$/docs/java" />
+      <recent name="$PROJECT_DIR$/docs/database" />
     </key>
   </component>
   <component name="RunManager">
@@ -136,7 +112,7 @@
       <workItem from="1601024486260" duration="226000" />
       <workItem from="1601255864048" duration="392000" />
       <workItem from="1601256376137" duration="1000000" />
-      <workItem from="1602129858203" duration="2050000" />
+      <workItem from="1602129858203" duration="2415000" />
     </task>
     <servers />
   </component>
@@ -188,9 +164,9 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="679" y="484" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1599899427400" />
-    <state x="551" y="324" width="845" height="538" key="find.popup" timestamp="1600263460763">
+    <state x="551" y="324" width="845" height="538" key="find.popup" timestamp="1602148449852">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="551" y="324" width="845" height="538" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1600263460763" />
+    <state x="551" y="324" width="845" height="538" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1602148449852" />
   </component>
 </project>
